@@ -91,6 +91,8 @@ def clean_dir():
 
 root = Tk()
 root.geometry('600x490')
+root.minsize('600','490')
+root.maxsize('600','490')
 root.title("PY-CLEAN")
 
 ####### Background Image
