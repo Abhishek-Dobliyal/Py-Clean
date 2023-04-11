@@ -1,6 +1,5 @@
-# PY-CLEAN
-
-Tool to organize Directories
+# Py-Clean
+Tool to organize directories in a structured way.
 
 
 ### Installations and Dependencies
